@@ -1,10 +1,10 @@
-# NavReact
+# NavB
 
 A React-based navigation project built to practice component-based UI development and reusable navigation elements.
 
 ## 📌 Overview
 
-**NavReact** is a React-based navigation project featuring a mobile-friendly, responsive interface that adapts to different screen sizes. It demonstrates the use of React components to build a navigation UI that works across desktop, tablet, and mobile devices.
+**NavB** is a React-based navigation project featuring a mobile-friendly, responsive interface that adapts to different screen sizes. It demonstrates the use of React components to build a navigation UI that works across desktop, tablet, and mobile devices.
 
 ## ✨ Features
 
@@ -91,6 +91,7 @@ NavReact/
 
 - GitHub: [@Udit-Shrivastava01](https://github.com/Udit-Shrivastava01)
 - Project Repository: [NavReact](https://github.com/Udit-Shrivastava01/NavReact)
+- Livelink: [vercel](https://navb-blush.vercel.app/)
 
 ---
 
